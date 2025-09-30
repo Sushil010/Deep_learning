@@ -1,5 +1,6 @@
 # Deep_learning
-This repo consists just a series of proect walkthrough not too technical details on DL parts
+This repo consists just a series of project walkthrough not too technical details on DL parts
+<br>
 Topic covered till now 
 <h3>
   <ul>Optimizers concept</ul>
